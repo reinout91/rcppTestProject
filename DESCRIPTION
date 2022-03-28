@@ -1,0 +1,13 @@
+Package: rcppTestProject
+Type: Package
+Title: Execute a small C++ sample script from an r Package
+Version: 0.1.0
+Author: Reinout Holtrup
+Maintainer: Reinout Holtrup <reinout91@gmail.com>
+Description: Blahbla
+License: GPL3
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.8)
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
